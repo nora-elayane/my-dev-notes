@@ -30,7 +30,7 @@ Data flows **down** from Layer 7 to Layer 1 on the sending device (Encapsulation
 └──────────────────────────────┘       └──────────────────────────────┘
 ```
 
-![OSI Model Layers Overview](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/The_OSI_Model_Layers.png/600px-The_OSI_Model_Layers.png)
+<img width="1536" height="1024" alt="osi_model" src="https://github.com/user-attachments/assets/a5687ae9-3f10-430f-842e-326353430aae" />
 
 
 ---
