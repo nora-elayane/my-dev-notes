@@ -1,6 +1,7 @@
 # History of Computer Science: Early Computing
 
 A comprehensive summary of computing history based on *Crash Course Computer Science #1*. This note covers the evolution of computing from hand-operated ancient tools to the electromechanical machines that laid the foundation for modern digital computers.
+<img width="1536" height="1024" alt="early_computing" src="https://github.com/user-attachments/assets/4e263532-504a-410c-b43d-eea6dd3fc68c" />
 
 ---
 
@@ -14,8 +15,6 @@ As societies expanded, tracking trade, populations, and agriculture became too c
     *   *Astrolabe:* Allowed ships to calculate latitude at sea.
     *   *Slide Rule:* Assisted with rapid multiplication and division.
     *   *Mechanical Clocks:* Calculated sunrise, tides, and celestial movements.
-
-![Abacus - Ancient Computing Tool](https://images.unsplash.com/photo-1618477388954-7852f32655ec?auto=format&fit=crop&w=600&q=80)
 
 ---
 
