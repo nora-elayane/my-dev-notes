@@ -12,8 +12,8 @@ In the early 20th century, rapid population growth and global conflict (World Wa
 
 * **Harvard Mark I (1944):** Built by IBM for the Allies. It contained 765,000 components, 500 miles of wire, and was used to run simulations for the Manhattan Project.
 * **The Core Mechanism — Relays:** Relays are electronically controlled mechanical switches. An electromagnetic coil pulls a metal arm shut to complete a circuit (acting like an electric water faucet).
+<img width="500" height="262" alt="harvard_mark_computer" src="https://github.com/user-attachments/assets/6dc48cb3-6d0c-4bc4-8f19-634029d1588a" />
 
-![Harvard Mark I Computer](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Harvard_Mark_I_Processor.jpg/600px-Harvard_Mark_I_Processor.jpg)
 
 ### Why Relays Were Limited:
 1. **Slow Speed:** Mechanical arms have mass. A relay could flick ~50 times per second. Complex math operations took seconds or minutes.
@@ -30,7 +30,8 @@ To speed up computation, engineers replaced moving mechanical relays with **vacu
 * **Advantages:** No mechanical wear and tear, and capable of switching thousands of times per second.
 * **Disadvantages:** Fragile, can burn out like light bulbs, and initially expensive.
 
-![Vacuum Tube Triode](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Triode_tube_diagram.svg/500px-Triode_tube_diagram.svg.png)
+<img width="860" height="890" alt="vacum_turiods" src="https://github.com/user-attachments/assets/918e526b-4cb8-420a-9071-a6599ec57082" />
+
 
 ### Key Early Vacuum Tube Machines:
 * **Colossus Mark I (1943):** Designed by Tommy Flowers at Bletchley Park to decrypt Nazi communications. The world's first **programmable electronic computer** (programmed manually using plugboards and cables).
@@ -50,7 +51,8 @@ In 1947, Bell Labs scientists (John Bardeen, Walter Brattain, and William Shockl
   * **Speed & Size:** Early transistors switched 10,000 times per second and were significantly smaller than vacuum tubes.
   * **Cost & Efficiency:** Allowed for mass commercial production (e.g., the IBM 608 in 1957).
 
-![Modern Transistors](https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80)
+<img width="500" height="308" alt="transistors" src="https://github.com/user-attachments/assets/22da3fff-caa9-487f-bbc6-bbffaaf5c9b2" />
+
 
 ---
 
