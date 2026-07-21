@@ -1,6 +1,8 @@
 # Electronic Computing: Crash Course Computer Science #2
 
 A clear and concise breakdown of the evolution from electromechanical computers to solid-state electronic computing based on *Crash Course Computer Science #2*.
+<img width="1536" height="1024" alt="electronic_computing" src="https://github.com/user-attachments/assets/99af3ca4-7ffc-48fe-af9b-6d2dd86d7599" />
+
 
 ---
 
